@@ -1,7 +1,7 @@
 # LBNL Programming Challenge
 ## A. How to run this program:
 1. open a terminal
-2. type python myProgram.py --files <filename> --nodes <filename>
+2. type python myProgram.py --files [filename] --nodes [filename]
 
 
 
